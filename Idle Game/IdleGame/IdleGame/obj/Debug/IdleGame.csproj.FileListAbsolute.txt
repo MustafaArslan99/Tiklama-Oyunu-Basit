@@ -1,0 +1,11 @@
+C:\Users\marsl\OneDrive\Masaüstü\Idle Game\IdleGame\IdleGame\bin\Debug\IdleGame.exe.config
+C:\Users\marsl\OneDrive\Masaüstü\Idle Game\IdleGame\IdleGame\bin\Debug\IdleGame.exe
+C:\Users\marsl\OneDrive\Masaüstü\Idle Game\IdleGame\IdleGame\bin\Debug\IdleGame.pdb
+C:\Users\marsl\OneDrive\Masaüstü\Idle Game\IdleGame\IdleGame\obj\Debug\IdleGame.csprojAssemblyReference.cache
+C:\Users\marsl\OneDrive\Masaüstü\Idle Game\IdleGame\IdleGame\obj\Debug\IdleGame.Form1.resources
+C:\Users\marsl\OneDrive\Masaüstü\Idle Game\IdleGame\IdleGame\obj\Debug\IdleGame.Properties.Resources.resources
+C:\Users\marsl\OneDrive\Masaüstü\Idle Game\IdleGame\IdleGame\obj\Debug\IdleGame.csproj.GenerateResource.cache
+C:\Users\marsl\OneDrive\Masaüstü\Idle Game\IdleGame\IdleGame\obj\Debug\IdleGame.csproj.CoreCompileInputs.cache
+C:\Users\marsl\OneDrive\Masaüstü\Idle Game\IdleGame\IdleGame\obj\Debug\IdleGame.exe
+C:\Users\marsl\OneDrive\Masaüstü\Idle Game\IdleGame\IdleGame\obj\Debug\IdleGame.pdb
+C:\Users\marsl\OneDrive\Masaüstü\Idle Game\IdleGame\IdleGame\obj\Debug\IdleGame.GamePage.resources
